@@ -10,7 +10,7 @@
 
 **A futuristic, cinematic, single-file developer portfolio with dark cyberpunk aesthetics, interactive particle effects, multi-page navigation, and a fully working contact form.**
 
-[View Portfolio](#) · [Report Bug](https://portfolio-rho-three-99.vercel.app/) · [Connect on LinkedIn](https://www.linkedin.com/in/aditya-kumar-singh-799ab0173/)
+[View Portfolio](https://portfolio-rho-three-99.vercel.app/) · [Report Bug](https://github.com/2184-Aditya-Kumar-Singh/2184-Aditya-Kumar-Singh/issues) · [Connect on LinkedIn](https://www.linkedin.com/in/aditya-kumar-singh-799ab0173/)
 
 </div>
 
